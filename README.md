@@ -1,4 +1,4 @@
-    An average college student who only started studying on github in his sophomore year
+<strong>An average college student who only started studying on github in his sophomore year</strong>
 - 👋 Hi, I’m @Hezy2024
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python and Time Series Forecasting.
